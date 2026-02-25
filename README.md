@@ -1,2 +1,2 @@
 # Banff-Topo-V1.1
-Just working on maps
+Contains information licensed under the Open Government Licence – Canada.
