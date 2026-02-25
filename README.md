@@ -1,2 +1,2 @@
-# Banff-Topo-V1.1
+# Banff Topography
 Contains information licensed under the Open Government Licence – Canada.
